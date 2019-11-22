@@ -1,6 +1,6 @@
 var token = ''; // inserire il token del bot creato con @botfather
-var telegramUrl = 'https://api.telegram.org/bot' + token;
 var webAppUrl = 'https://script.google.com/macros/s/XXXXXX/exec'; // inserire l'indirizzo dell'applicazione, generato da google ed eseguire la funzione setWebhook dal menu di google script
+var telegramUrl = 'https://api.telegram.org/bot' + token;
 
 var BUTTON_MESSAGE1 = 'Ricerca';
 var BUTTON_MESSAGE2 = 'Info';
